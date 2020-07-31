@@ -20,7 +20,7 @@ Founder
 
 ### 你好，世界 👋 Less is more.
 
-- :book: LIFELONG-LEANER
+- :book: Lifelong Learner 
 - 😄nickname: 姓断名离舍
 - :orange_book: I’m currently learning Python
 - :office: I work for myself
