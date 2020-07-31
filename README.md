@@ -18,11 +18,10 @@ Founder
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=luffythink&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### 你好，世界 👋
+### 你好，世界 👋 Less is more.
 
 - :book: LIFELONG-LEANER
 - 😄nickname: 姓断名离舍
-- 🤔motto: Less is more
 - :orange_book: I’m currently learning Python
 - :office: I work for myself
 - :walking: Travel lover
