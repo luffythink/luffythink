@@ -21,7 +21,7 @@ Founder
 ### 你好，世界 👋 Less is more.
 
 - :book: Lifelong Learner 
-- 😄nickname: 姓断名离舍
+- 😄nickname: xipochen
 - :orange_book: I’m currently learning Python
 - :office: Freelancing
 - :walking: Travel lover
