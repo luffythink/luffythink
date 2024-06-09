@@ -24,4 +24,4 @@ Founder
 - 😄nickname: xipochen@Oscar
 - 🗣️: I’m currently learning English. 
 - ⚓: Freelancing & Travel lover
-- 🔖: Less is more.Just do it.
+- 🔖: Less is more. Just do it.
