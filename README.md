@@ -24,4 +24,4 @@ Founder
 - 😄nickname: xipochen
 - :orange_book: I’m currently learning Python
 - 🏢 Freelancing
-- 🚴: Travel lover & 
+- 🚴: Travel lover
