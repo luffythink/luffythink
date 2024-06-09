@@ -20,7 +20,7 @@ Founder
 
 ### 🚴在迈向未来赛博新世界的路上...  
 
-- :book: Lifelong Learner 
+- ♻️: A eco-lifelong learner. 
 - 😄: xipochen@Oscar
 - 🗣️: I’m currently learning English. 
 - ⚓: Freelancing & Travel lover
