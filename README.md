@@ -23,5 +23,5 @@ Founder
 - :book: Lifelong Learner 
 - 😄nickname: xipochen
 - :orange_book: I’m currently learning Python
-- :office: Freelancing
-- :walking: Travel lover
+- 🏢 Freelancing
+- 🚴: Travel lover & 
