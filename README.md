@@ -21,7 +21,7 @@ Founder
 ### 🚴在迈向未来赛博新世界的路上...  
 
 - :book: Lifelong Learner 
-- 😄nickname: xipochen@Oscar
+- 😄: xipochen@Oscar
 - 🗣️: I’m currently learning English. 
 - ⚓: Freelancing & Travel lover
 - 🔖: Less is more. Just do it.
