@@ -24,5 +24,3 @@ const README = `\
 
 \
 `
-
-console.log(readme)
