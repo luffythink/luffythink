@@ -1,4 +1,4 @@
-name: Progress Bar CI
+name: TimeBar
 
 on:
   workflow_dispatch:
@@ -7,9 +7,7 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v2
     - name: Use Node.js
