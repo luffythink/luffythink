@@ -9,7 +9,7 @@ function generateProgressBar() {
     const passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity)
     const progressBar = Array(progressBarCapacity)
         .fill('▁')
-        .map((value, index) => index < passedProgressBarIndex ? '🚴' : value)
+        .map((value, index) => index < passedProgressBarIndex ? 'I' : value)
         .join('')
     return `{ ${progressBar} }`
 }
