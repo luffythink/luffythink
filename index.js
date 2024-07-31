@@ -5,7 +5,7 @@ const progressOfThisYear = (Date.now() - startTimeOfThisYear) / (endTimeOfThisYe
 const progressBarOfThisYear = generateProgressBar()
 
 function generateProgressBar() {
-    const progressBarCapacity = 12
+    const progressBarCapacity = 6
     const passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity)
     const progressBar = Array(progressBarCapacity)
         .fill('▁')
