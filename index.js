@@ -11,7 +11,7 @@ function generateProgressBar() {
         .fill('▁')
         .map((value, index) => index < passedProgressBarIndex ? '🚴' : value)
         .join('')
-    return `{ ${progressBar} }`
+    return `[ ${progressBar} ]`
 }
 
 const readme = `\
