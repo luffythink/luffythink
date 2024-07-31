@@ -35,3 +35,5 @@ Here are some ideas to get you started for reference.
 ---
 ⏰ Updated on ${new Date().toUTCString()}
 ---
+\`
+console.log(readme)
