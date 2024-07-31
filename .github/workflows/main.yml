@@ -1,4 +1,4 @@
-name: Progress Bar CI
+name: TimeBar
 
 on:
   workflow_dispatch:
