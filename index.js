@@ -13,7 +13,8 @@ function generateProgressBar() {
     return `{ ${progressBar} }`
 }
 
-const readme = `\
+
+const README = `\
 
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
