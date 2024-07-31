@@ -14,7 +14,7 @@ function generateProgressBar() {
 }
 
 
-const README.md = `\
+const README = `\
 ----------------------------
 ### 22
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
@@ -22,6 +22,6 @@ const README.md = `\
 ⏰ Updated on ${new Date().toUTCString()}
 -------------------------------
 \
-`
+
 
 
