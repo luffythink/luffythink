@@ -1,6 +1,6 @@
 
 
--- ♻️: A eco-lifelong learner. 
+  - ♻️: A eco-lifelong learner. 
 - 😄: xipochen@Oscar
 - 🗣️: I’m currently learning Python, Blockchain...
 - ⚓: Freelancing & Cycling lover
