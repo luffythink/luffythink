@@ -1,8 +1,8 @@
-### 🚴 在迈向未来赛博新世界的路上 [ 🚴🚴🚴🚴▁▁ ] 71.93 % 2024
+### 🚴 在迈向未来赛博新世界的路上 [ 🚴🚴🚴🚴▁▁ ] 72.00 % 2024
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=luffythink&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"/>
 
-- ♻️: A eco-lifelong learner. 
+- ♻️: A eco-lifelong learner & crypto explorer.
 - 😄: xipochen@Oscar
 - 🗣️: I’m currently learning Python, Blockchain...
 - ⚓: Freelancing & Cycling lover
